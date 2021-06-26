@@ -1,2 +1,2 @@
 # Ray-Tracer
-![Output of the ray tracer.](Ray tracer output.png)
+![Ray tracer output](https://user-images.githubusercontent.com/47404318/123499352-14ac9500-d604-11eb-8c80-193d178d6341.png)
